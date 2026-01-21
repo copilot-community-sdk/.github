@@ -1,6 +1,6 @@
 # GitHub Copilot Community SDKs
 
-Community-maintained SDKs for building extensions and integrations with GitHub Copilot.
+Community-maintained SDKs for building extensions and integrations with GitHub Copilot through the [Copilot CLI](https://github.com/features/copilot/cli).
 
 > ⚠️ **Disclaimer**: These are unofficial, community-maintained SDKs. They are not officially supported by GitHub and may break due to changes in the Copilot CLI or APIs.
 
@@ -25,7 +25,7 @@ The following community SDKs are maintained outside this organization:
 | C++      | [copilot-sdk-cpp][sdk-cpp]          | [@0xeb][2]    |
 | Rust     | [copilot-sdk-rust][sdk-rust]        | [@0xeb][2]    |
 
-## Official SDK
+## Official SDKs
 
 For officially supported SDKs, see the [GitHub Copilot SDK][official-sdk] maintained by GitHub.
 
