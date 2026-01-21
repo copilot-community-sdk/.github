@@ -4,6 +4,31 @@ Community-maintained SDKs for building extensions and integrations with GitHub C
 
 > ⚠️ **Disclaimer**: These are unofficial, community-maintained SDKs. They are not officially supported by GitHub and may break due to changes in the Copilot CLI or APIs.
 
+## What is GitHub Copilot CLI?
+
+[GitHub Copilot CLI][copilot-cli] is an agent-powered terminal companion that reads, writes, and runs code where you work. It enables developers to code faster and smarter directly from the command line.
+
+![GitHub Copilot CLI running in a terminal window](https://images.ctfassets.net/8aevphvgewt8/5oSoYr8RQkN6yYWqSObKGQ/f08bda1d8589ab89d9adf55a732beb13/HeaderImage.webp?w=1248&fm=webp&q=90)
+
+### Key Capabilities
+
+- **Get started in any codebase instantly** — Ask Copilot CLI to explore project structure, install dependencies, and explain how everything works through simple conversation.
+- **Leverage GitHub context** — Bring context from your issues and pull requests directly to your environment, eliminating context switching.
+- **Extend with MCP servers** — Extend Copilot CLI's capabilities through custom [MCP servers][mcp-registry].
+- **Build, edit, debug, and refactor code locally** — Copilot CLI edits files, runs commands, and helps you iterate fast without leaving your terminal.
+
+Copilot CLI is included with Copilot Pro, Pro+, Business, and Enterprise plans.
+
+## What is the GitHub Copilot SDK?
+
+The [Copilot SDK][copilot-sdk] provides language-specific libraries for programmatic access to the GitHub Copilot CLI, enabling developers to build custom tools and integrations.
+
+### Key Features
+
+- **Multi-turn conversations** — Maintain session history for context-aware interactions.
+- **Tool execution** — Define custom tools that the model can invoke during conversations.
+- **Full lifecycle control** — Manage client and session lifecycles programmatically.
+
 ## About
 
 This organization hosts community-driven SDKs that enable developers to build tools and integrations with GitHub Copilot. These SDKs are created and maintained by the community to fill gaps in official tooling and provide language-specific implementations.
@@ -45,6 +70,11 @@ Contributions are welcome! If you'd like to add a new SDK or improve existing on
 ## License
 
 See individual SDK directories for their respective licenses.
+
+<!-- Copilot CLI and SDK References -->
+[copilot-cli]: https://github.com/features/copilot/cli
+[copilot-sdk]: https://github.blog/changelog/2026-01-14-copilot-sdk-in-technical-preview/
+[mcp-registry]: https://github.com/mcp
 
 <!-- Community SDK References -->
 [sdk-java]: https://github.com/copilot-community-sdk/copilot-sdk-java
