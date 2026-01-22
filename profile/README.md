@@ -40,6 +40,7 @@ The following community SDKs are hosted within this organization:
 | Language | Repository                          | Maintainer        |
 | -------- | ----------------------------------- | ----------------- |
 | Java     | [copilot-sdk-java][sdk-java]        | [@brunoborges][1] |
+| Rust     | [copilot-sdk-rust][sdk-rust]        | [@0xeb][2]    |
 
 ## Community SDKs (External)
 
@@ -48,7 +49,6 @@ The following community SDKs are maintained outside this organization:
 | Language | Repository                          | Maintainer    |
 | -------- | ----------------------------------- | ------------- |
 | C++      | [copilot-sdk-cpp][sdk-cpp]          | [@0xeb][2]    |
-| Rust     | [copilot-sdk-rust][sdk-rust]        | [@0xeb][2]    |
 
 ## Official SDKs
 
@@ -79,7 +79,7 @@ See individual SDK directories for their respective licenses.
 <!-- Community SDK References -->
 [sdk-java]: https://github.com/copilot-community-sdk/copilot-sdk-java
 [sdk-cpp]: https://github.com/0xeb/copilot-sdk-cpp
-[sdk-rust]: https://github.com/0xeb/copilot-sdk-rust
+[sdk-rust]: https://github.com/copilot-community-sdk/copilot-sdk-rust
 
 <!-- Maintainer References -->
 [1]: https://github.com/brunoborges
