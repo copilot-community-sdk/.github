@@ -40,7 +40,7 @@ The following community SDKs are hosted within this organization:
 | Language | Repository                          | Maintainer        |
 | -------- | ----------------------------------- | ----------------- |
 | Java     | [copilot-sdk-java][sdk-java]        | [@brunoborges][1] |
-| Rust     | [copilot-sdk-rust][sdk-rust]        | [@0xeb][2]    |
+| Rust     | [copilot-sdk-rust][sdk-rust]        | [@0xeb][2]        |
 
 ## Community SDKs (External)
 
@@ -49,6 +49,7 @@ The following community SDKs are maintained outside this organization:
 | Language | Repository                          | Maintainer    |
 | -------- | ----------------------------------- | ------------- |
 | C++      | [copilot-sdk-cpp][sdk-cpp]          | [@0xeb][2]    |
+| Clojure  | [copilot-sdk-clojure][sdk-clojure]  | [@krukow][3]  |
 
 ## Official SDKs
 
@@ -56,8 +57,8 @@ For officially supported SDKs, see the [GitHub Copilot SDK][official-sdk] mainta
 
 Currently, the officially supported languages by GitHub are:
 
-| Language  | Repository                          |
-| --------- | ----------------------------------- |
+| Language  | Repository                            |
+| --------- | ------------------------------------- |
 | .NET / C# | [copilot-sdk/dotnet][official-dotnet] |
 | Python    | [copilot-sdk/python][official-python] |
 | Go        | [copilot-sdk/go][official-go]         |
@@ -80,10 +81,12 @@ See individual SDK directories for their respective licenses.
 [sdk-java]: https://github.com/copilot-community-sdk/copilot-sdk-java
 [sdk-cpp]: https://github.com/0xeb/copilot-sdk-cpp
 [sdk-rust]: https://github.com/copilot-community-sdk/copilot-sdk-rust
+[sdk-clojure]: https://github.com/krukow/copilot-sdk-clojure
 
 <!-- Maintainer References -->
 [1]: https://github.com/brunoborges
 [2]: https://github.com/0xeb
+[3]: https://github.com/krukow
 
 <!-- Official SDK References -->
 [official-sdk]: https://github.com/github/copilot-sdk
