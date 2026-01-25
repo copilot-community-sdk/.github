@@ -93,4 +93,4 @@ See individual SDK directories for their respective licenses.
 [official-dotnet]: https://github.com/github/copilot-sdk/tree/main/dotnet
 [official-python]: https://github.com/github/copilot-sdk/tree/main/python
 [official-go]: https://github.com/github/copilot-sdk/tree/main/go
-[official-node]: https://github.com/github/copilot-sdk/tree/main/node
+[official-node]: https://github.com/github/copilot-sdk/tree/main/nodejs
